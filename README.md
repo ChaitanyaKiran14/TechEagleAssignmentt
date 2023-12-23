@@ -1,4 +1,4 @@
-Tech Eagle Race Simulation
+##Tech Eagle Race Simulation
 
 This project simulates a race track where participants (represented by SVG icons) move based on their speed and time.
 The application is built using React.
