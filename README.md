@@ -1,4 +1,3 @@
-Certainly! Here's a basic README for your project:
 
 ```markdown
 # Tech Eagle Race Simulation
@@ -74,18 +73,4 @@ This project simulates a race track where participants (represented by SVG icons
 
    - SVG representation of a person, used to visualize participants.
 
-## Customization
 
-- **Styling:**
-  - Customize styles in the `src/styles` directory.
-
-- **Person SVG:**
-  - Modify the `Person.jsx` component to change the appearance of the participant.
-
-- **Functionality:**
-  - Extend or modify functionalities based on specific requirements.
-
-Feel free to explore and enhance the project based on your preferences and needs!
-```
-
-This README provides a brief overview of the project, installation steps, usage instructions, and information about the main components. You can further customize and expand the README based on the specific features and details of your application.
